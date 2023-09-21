@@ -23,6 +23,6 @@ npm install
 
 node server.js
 
-The API will be running on port 3000. You can access it at the following URL in your web browser:
+The API will be running on port 5000. You can access it at the following URL in your web browser:
 
-http://localhost:3000
+http://localhost:5000
